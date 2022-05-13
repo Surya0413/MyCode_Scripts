@@ -1,0 +1,37 @@
+﻿<Iterations>
+	<Iteration>
+		<MainMenu>DOCUMENTS</MainMenu>
+		<SubMenu>Client Portal Registration</SubMenu>
+		<PDF>OKTA_Walkthrough.pdf</PDF>
+	</Iteration>
+	<Iteration>
+		<MainMenu>DOCUMENTS</MainMenu>
+		<SubMenu>Client Portal Walkthrough - Commercials</SubMenu>
+		<PDF>ClientPortal-Version_2.1-Commercials.pdf</PDF>
+	</Iteration>
+	<Iteration>
+		<MainMenu>DOCUMENTS</MainMenu>
+		<SubMenu>Client Portal Walkthrough - Features</SubMenu>
+		<PDF>ClientPortal-Version_2.1-Features.pdf</PDF>
+	</Iteration>	
+	<!--<Iteration>
+		<MainMenu>DOCUMENTS</MainMenu>
+		<SubMenu>Online Payslip Registration</SubMenu>
+		<PDF>CrewPortal_Registration_for_Online_Pay_Slips.pdf</PDF>
+	</Iteration>
+	<Iteration>
+		<MainMenu>DOCUMENTS</MainMenu>
+		<SubMenu>INTERNAL ONLY - Payroll Distribution List</SubMenu>
+		<PDF>Payroll_Distribution_List.pdf</PDF>
+	</Iteration>
+	<Iteration>
+		<MainMenu>DOCUMENTS</MainMenu>
+		<SubMenu>INTERNAL ONLY - Payroll Operations Guide</SubMenu>
+		<PDF>Payroll_Operations_Guide.pdf</PDF>
+	</Iteration>
+	<Iteration>
+		<MainMenu>DOCUMENTS</MainMenu>
+		<SubMenu>INTERNAL ONLY - Payroll Release Guide</SubMenu>
+		<PDF>CastAndCrew_PayrollReleaseGuide.pdf</PDF>
+	</Iteration>-->	
+</Iterations>

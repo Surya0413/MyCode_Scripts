@@ -1,0 +1,122 @@
+﻿<Iterations>
+	<Iteration>
+		<MainMenu>STATE FORMS</MainMenu>
+		<SubMenu>Alabama</SubMenu>
+		<InnerMenu>Declaration of Residency</InnerMenu>
+		<PDF>Alabama-Alabama_Declaration_of_Residency.pdf</PDF>
+	</Iteration>
+	<Iteration>
+		<MainMenu>STATE FORMS</MainMenu>
+		<SubMenu>California</SubMenu>
+		<InnerMenu>Diversity Form</InnerMenu>
+		<PDF>California-California_Diversity_Form.pdf</PDF>
+	</Iteration>
+	<Iteration>
+		<MainMenu>STATE FORMS</MainMenu>
+		<SubMenu>Colorado</SubMenu>
+		<InnerMenu>Declaration of Residency</InnerMenu>
+		<PDF>Colorado-Declaration_of_Colorado_Residency.pdf</PDF>
+	</Iteration>
+	<Iteration>
+		<MainMenu>STATE FORMS</MainMenu>
+		<SubMenu>Georgia</SubMenu>
+		<InnerMenu>G4 Form</InnerMenu>
+		<PDF>Georgia-Form_G-4.pdf</PDF>
+	</Iteration>
+	<Iteration>
+		<MainMenu>STATE FORMS</MainMenu>
+		<SubMenu>Illinois</SubMenu>
+		<InnerMenu>Diversity Form</InnerMenu>
+		<PDF>Illinois-Tax_Credit_Diversity_Tracking.pdf</PDF>
+	</Iteration>
+	<Iteration>
+		<MainMenu>STATE FORMS</MainMenu>
+		<SubMenu>Louisiana</SubMenu>
+		<InnerMenu>Declaration of Residency</InnerMenu>
+		<PDF>Louisiana-Declaration_of_Residency_Louisiana.pdf</PDF>
+	</Iteration>
+	<Iteration>
+		<MainMenu>STATE FORMS</MainMenu>
+		<SubMenu>Louisiana</SubMenu>
+		<InnerMenu>L4 Form</InnerMenu>
+		<PDF>Louisiana-Form_L-4.pdf</PDF>
+	</Iteration>
+	<Iteration>
+		<MainMenu>STATE FORMS</MainMenu>
+		<SubMenu>Louisiana</SubMenu>
+		<InnerMenu>L4 - E Form</InnerMenu>
+		<PDF>Louisiana-Form_L-4E.pdf</PDF>		
+	</Iteration>
+	<Iteration>
+		<MainMenu>STATE FORMS</MainMenu>
+		<SubMenu>Louisiana</SubMenu>
+		<InnerMenu>Declaration of Residency - Jefferson Parish</InnerMenu>
+		<PDF>Louisiana-Jefferson_Parish_of_Lousiana_Declaration_of_Residency.pdf</PDF>
+	</Iteration>
+	<Iteration>
+		<MainMenu>STATE FORMS</MainMenu>
+		<SubMenu>Louisiana</SubMenu>
+		<InnerMenu>Declaration of Residency - St.Bernard Parish</InnerMenu>
+		<PDF>Louisiana-St._Bernard_Parish_of_Lousiana_Declaration_of_Residency.pdf</PDF>
+	</Iteration>
+	<Iteration>
+		<MainMenu>STATE FORMS</MainMenu>
+		<SubMenu>Massachusetts</SubMenu>
+		<InnerMenu>Loan - Out Affidavit</InnerMenu>
+		<PDF>Mass.-Form_LOA_Massachusetts.pdf</PDF>
+	</Iteration>
+	<Iteration>
+		<MainMenu>STATE FORMS</MainMenu>
+		<SubMenu>Massachusetts</SubMenu>
+		<InnerMenu>M4 Form</InnerMenu>
+		<PDF>Mass.-Form_M-4.pdf</PDF>
+	</Iteration>
+	<Iteration>
+		<MainMenu>STATE FORMS</MainMenu>
+		<SubMenu>Nevada</SubMenu>
+		<InnerMenu>Declaration of Residency</InnerMenu>
+		<PDF>Nevada-State_of_Nevada_Declaration_of_Residency.pdf</PDF>
+	</Iteration>
+	<Iteration>
+		<MainMenu>STATE FORMS</MainMenu>
+		<SubMenu>New Mexico</SubMenu>
+		<InnerMenu>Declaration of Residency</InnerMenu>
+		<PDF>New_Mexico-Declaration_of_Residency_New_Mexico.pdf</PDF>
+	</Iteration>
+	<Iteration>
+		<MainMenu>STATE FORMS</MainMenu>
+		<SubMenu>Oklahoma</SubMenu>
+		<InnerMenu>Declaration of Residency</InnerMenu>
+		<PDF>Oklahoma-Declaration_of_Residency_Form_C.pdf</PDF>
+	</Iteration>
+	<Iteration>
+		<MainMenu>STATE FORMS</MainMenu>
+		<SubMenu>Pennsylvania</SubMenu>
+		<InnerMenu>REV 419 - Employee Non - witholding Certificate</InnerMenu>
+		<PDF>Pennsylvania-REV-419_Employee_Nonwitholding_Application_Certificate_PA.pdf</PDF>
+	</Iteration>
+	<Iteration>
+		<MainMenu>STATE FORMS</MainMenu>
+		<SubMenu>South Carolina</SubMenu>
+		<InnerMenu>WH - 403</InnerMenu>
+		<PDF>South_Carolina-WH_403.pdf</PDF>
+	</Iteration>
+	<Iteration>
+		<MainMenu>STATE FORMS</MainMenu>
+		<SubMenu>Tennessee</SubMenu>
+		<InnerMenu>Declaration of Residency</InnerMenu>
+		<PDF>Tennessee-Form_B_Declaration_of_Residency.pdf</PDF>
+	</Iteration>
+	<Iteration>
+		<MainMenu>STATE FORMS</MainMenu>
+		<SubMenu>Texas</SubMenu>
+		<InnerMenu>Declaration of Residency</InnerMenu>
+		<PDF>Texas-Declaration_of_Texas_Residency.pdf</PDF>
+	</Iteration>
+	<Iteration>
+		<MainMenu>STATE FORMS</MainMenu>
+		<SubMenu>Washington</SubMenu>
+		<InnerMenu>Declaration of Residency</InnerMenu>
+		<PDF>Washington-Filmworks_Declaration_of_Residency.pdf</PDF>
+	</Iteration>	
+</Iterations>

@@ -1,0 +1,17 @@
+﻿<Iterations>
+	<Iteration>
+		<MainMenu>TAX INCENTIVE INSTRUCTIONS</MainMenu>
+		<SubMenu>General Tax Incentive Doc</SubMenu>
+		<PDF>General_Tax_Incentive_Document.pdf</PDF>
+	</Iteration>
+	<Iteration>
+		<MainMenu>TAX INCENTIVE INSTRUCTIONS</MainMenu>
+		<SubMenu>New Mexico</SubMenu>
+		<PDF>New_Mexico.pdf</PDF>
+	</Iteration>
+	<Iteration>
+		<MainMenu>TAX INCENTIVE INSTRUCTIONS</MainMenu>
+		<SubMenu>Pennsylvania</SubMenu>
+		<PDF>Pennsylvania.pdf</PDF>
+	</Iteration>	 
+</Iterations>

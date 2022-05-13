@@ -1,0 +1,27 @@
+﻿<Iterations>
+	<Iteration>
+		<MainMenu>PAYROLL TOOLS</MainMenu>
+		<SubMenu>Payroll Tracking</SubMenu>
+		<Validate>Timecard Type</Validate>
+	</Iteration>	 
+	<Iteration>
+		<MainMenu>PAYROLL TOOLS</MainMenu>
+		<SubMenu>Coordinator Management</SubMenu>
+		<Validate>Coordinator Status</Validate>
+	</Iteration>
+	<Iteration>
+		<MainMenu>PAYROLL TOOLS</MainMenu>
+		<SubMenu>Contact Review</SubMenu>
+		<Validate>Contact Management</Validate>
+	</Iteration>
+	<Iteration>
+		<MainMenu>PAYROLL TOOLS</MainMenu>
+		<SubMenu>Employee Merge/Update Requests</SubMenu>
+		<Validate>Employee Merge/Update Requests</Validate>
+	</Iteration>
+	<Iteration>
+		<MainMenu>PAYROLL TOOLS</MainMenu>
+		<SubMenu>TiM-Starts To Be Processed</SubMenu>
+		<Validate>Picture/Job Title</Validate>
+	</Iteration>	
+</Iterations>

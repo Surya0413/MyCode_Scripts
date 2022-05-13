@@ -1,0 +1,63 @@
+﻿
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js">
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('thead').on('click', function () {
+                $(this).next('tbody').toggleClass('collapsed');
+            });
+        });
+    </script>
+    <style>
+        td,
+        th {
+            border: 1px solid gray;
+            padding: 5px;   
+        }
+
+        th {
+            cursor: pointer;
+            background: #eee;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .collapsed {
+            display: none;
+        }
+    </style>
+
+
+</head>
+<body>    
+
+    <table>
+        <thead>
+            <tr><th>Summary Row #1</th></tr>
+        </thead>
+
+        <tbody class="collapsed">
+            <tr><td>Drill Down Data</td></tr>
+            <tr><td>Drill Down Data</td></tr>
+        </tbody>
+
+        <thead>
+            <tr><th>Summary Row #2</th></tr>
+        </thead>
+
+        <tbody class="collapsed">
+            <tr><td>Drill Down Data</td></tr>
+            <tr><td>Drill Down Data</td></tr>
+        </tbody>
+
+    </table>
+</body>
+</html>
