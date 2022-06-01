@@ -18,7 +18,7 @@ namespace ShowbizStudio_Scripts
          //   DataHandler.Instance.InitializeParameter("Browser", "Edge");
             DataHandler.Instance.InitializeParameter("Browser", "Chrome");
             DataHandler.Instance.InitializeParameter("Username", "surya.sasidhar@gmail.com");
-            DataHandler.Instance.InitializeParameter("Password", "Monday@17122012");           
+            DataHandler.Instance.InitializeParameter("Password", "Monday");           
 
         }
 
@@ -30,7 +30,7 @@ namespace ShowbizStudio_Scripts
          //   DataHandler.Instance.InitializeParameter("Browser", "Edge");
             DataHandler.Instance.InitializeParameter("Browser", "Chrome");
             DataHandler.Instance.InitializeParameter("Username", "surya.sasidhar@gmail.com");
-            DataHandler.Instance.InitializeParameter("Password", "Monday@17122012");     
+            DataHandler.Instance.InitializeParameter("Password", "Monday");     
         }
 
         [Test]
@@ -41,7 +41,7 @@ namespace ShowbizStudio_Scripts
          //   DataHandler.Instance.InitializeParameter("Browser", "Edge");
             DataHandler.Instance.InitializeParameter("Browser", "Chrome");
             DataHandler.Instance.InitializeParameter("Username", "surya.sasidhar@gmail.com");
-            DataHandler.Instance.InitializeParameter("Password", "Monday@17122012");     
+            DataHandler.Instance.InitializeParameter("Password", "Monday");     
         }
 
         [TearDown]
