@@ -45,10 +45,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AdjustmentsPO.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="HomePagepo.cs" />
     <Compile Include="MastersAndLookupsPO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PSHDUserManagementPO.cs" />
     <Compile Include="ReportsPO.cs" />
     <Compile Include="SBSloginpo.cs" />
     <Compile Include="TalentAgencyManagementPO.cs" />

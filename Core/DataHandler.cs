@@ -295,9 +295,49 @@ namespace Core
 
 
         }
-       
-         
-       
+
+
+
+        public void Read_TableData_Excel(string FileName, string SheetName, Action Looper)
+        {
+            String fileName = Path.Combine(GetParam("ResultsDirectory"), "Data\\" + FileName + ".xlsx");
+
+            System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
+            using (var stream = File.Open(fileName, FileMode.Open, FileAccess.Read))
+            {
+                using (var reader = ExcelReaderFactory.CreateReader(stream))
+                {
+
+                    DataRowCollection row = reader.AsDataSet().Tables[SheetName].Rows;
+
+                    DataTable dtTable = reader.AsDataSet().Tables[SheetName];
+
+                    try
+                    {
+                        for (int i = 1; i < dtTable.Rows.Count; i++)
+                        {
+                            DataRow drs = dtTable.Rows[i];
+                            for (int j = 0; j < dtTable.Columns.Count; j++)
+                            {
+                                // string ss = dtTable.Rows[i][j].ToString();
+                                InitializeParameter(dtTable.Rows[0][j].ToString(), dtTable.Rows[i][j].ToString());
+                            }
+                            Looper();
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+
+                    }
+
+                }
+            }
+
+
+        } /* method */
+
+
+
     }
 }
 public static class Helpers

@@ -57,11 +57,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Adjustments.cs" />
     <Compile Include="General.cs" />
     <Compile Include="HomePage.cs" />
     <Compile Include="MastersAndLookups.cs" />
     <Compile Include="PayrollTracking.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PSHDUserManagement.cs" />
     <Compile Include="Reports.cs" />
     <Compile Include="ReportViewer.cs" />
     <Compile Include="SBSLogin.cs" />
