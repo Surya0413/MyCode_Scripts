@@ -82,6 +82,7 @@
     <Compile Include="SetupFixtr.cs" />
     <Compile Include="Smoke_MasterLookups.cs" />
     <Compile Include="Smoke_PayrollTracking.cs" />
+    <Compile Include="Smoke_Show.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Data\Documents.xml">
