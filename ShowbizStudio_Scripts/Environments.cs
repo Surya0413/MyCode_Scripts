@@ -13,7 +13,7 @@ namespace ShowbizStudio_Scripts
         [Test]
         public void Showbizstudio_QA_Parameters()
         {
-            DataHandler.Instance.InitializeParameter("URL", @"https://qa.show.com/");
+            DataHandler.Instance.InitializeParameter("URL", @"https://qa.showbizstudio.com/");
             DataHandler.Instance.InitializeParameter("Environment", "QA");
             DataHandler.Instance.InitializeParameter("Browser", "Edge");
             // DataHandler.Instance.InitializeParameter("Browser", "Chrome");
@@ -27,7 +27,7 @@ namespace ShowbizStudio_Scripts
         [Test]
         public void Showbizstudio_Dev_Parameters()
         {
-            DataHandler.Instance.InitializeParameter("URL", @"https://qa.show.com/");
+            DataHandler.Instance.InitializeParameter("URL", @"https://qa.showbizstudio.com/");
             DataHandler.Instance.InitializeParameter("Environment", "QA");
             DataHandler.Instance.InitializeParameter("Browser", "Edge");
             // DataHandler.Instance.InitializeParameter("Browser", "Chrome");
@@ -38,7 +38,7 @@ namespace ShowbizStudio_Scripts
         [Test]
         public void Showbizstudio_Stage_Parameters()
         {
-            DataHandler.Instance.InitializeParameter("URL", @"https://qa.show.com/");
+            DataHandler.Instance.InitializeParameter("URL", @"https://qa.showbizstudio.com/");
             DataHandler.Instance.InitializeParameter("Environment", "QA");
             DataHandler.Instance.InitializeParameter("Browser", "Edge");
             // DataHandler.Instance.InitializeParameter("Browser", "Chrome");
@@ -50,7 +50,7 @@ namespace ShowbizStudio_Scripts
         [Test]
         public void ClientShowBiz_Stage()
         {
-            DataHandler.Instance.InitializeParameter("URL", @"https://qa.show.com/");
+              DataHandler.Instance.InitializeParameter("URL", @"https://qa.showbizstudio.com/");
             DataHandler.Instance.InitializeParameter("Environment", "QA");
             DataHandler.Instance.InitializeParameter("Browser", "Edge");
             // DataHandler.Instance.InitializeParameter("Browser", "Chrome");
