@@ -18,7 +18,6 @@ namespace ActionLib
         public ClientLoginCode()
         {
             driver = BrowserHandler.Driver;
-
         }
 
         private void WaitForCodepage()
